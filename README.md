@@ -1,4 +1,4 @@
-### 👋🏿 Hello, my name is Philippe.
+### 👋🏿 Hello, I'm Philippe.
 
 I'm a Full-Stack Software Developer with an inclination to discover, learn, and grow.
 
