@@ -1,8 +1,8 @@
-### 👋 hi, my name is Philippe.
+### 👋🏿 Hello, my name is Philippe.
 
 I'm a Full-Stack Software Developer with an inclination to discover, learn, and grow.
 
-### 💻  Tech Stack
+### 💻 Tech Stack
 - Languages: JavaScript, HTML, CSS
 - Frameworks: React
 - Tools: Git, GitHub, VS Code, Netlify,
