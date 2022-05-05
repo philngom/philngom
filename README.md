@@ -4,9 +4,10 @@ I'm a Full-Stack Software Developer with an inclination to discover, learn, and 
 
 ### 💻 Tech Stack
 - Languages: JavaScript, HTML, CSS
-- Frameworks: React
-- Tools: Git, GitHub, VS Code, Netlify,
-- Databases: Supabase
+- Libraries & Frameworks: react, node.js, express 
+- Tools: Git, GitHub, VS Code, Netlify, Heroku, Postman, Beekeeper
+- Databases: Supabase, PostgreSQL
+- Testing: Jest, QUnit
 
 
 <!--
