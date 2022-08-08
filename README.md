@@ -1,7 +1,3 @@
-### 👋🏿 Hello, I'm Philippe.
-
-I'm a Full-Stack Software Developer with an inclination to discover, learn, and grow.
-
 ### 💻 Tech Stack
 - Languages: JavaScript, HTML, CSS
 - Libraries & Frameworks: react, node.js, express 
