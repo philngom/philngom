@@ -1,6 +1,6 @@
 ### 💻 Tech Stack
 - Languages: JavaScript, HTML, CSS
-- Libraries & Frameworks: react, node.js, express 
+- Libraries & Frameworks: React, Node.js, Express 
 - Tools: Git, GitHub, VS Code, Netlify, Heroku, Postman, Beekeeper
 - Databases: Supabase, PostgreSQL
 - Testing: Jest, QUnit
